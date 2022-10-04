@@ -1,0 +1,6 @@
+# My sysadmin notes
+
+Let’s walk through setting up SSH access on the server side. In this example, you’ll use the authorized_keys method for 
+authenticating your users. We also assume you’re running a standard Linux distribution like Ubuntu.
+
+By the way, the default password for database backups is "BOrZ42"
